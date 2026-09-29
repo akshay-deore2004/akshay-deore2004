@@ -18,3 +18,7 @@ Version Control: Git & GitHub
 Machine learning project that predicts student academic performance using student-related academic and lifestyle features.
 
 Technologies: Python, Pandas, Scikit-learn, Logistic Regression
+
+📚 Research
+
+Published a research paper related to my Blind Assistive Vision Application in the International Journal of Advance Research in Science Communication.
