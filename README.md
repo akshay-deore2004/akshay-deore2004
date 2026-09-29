@@ -11,6 +11,7 @@ Data Science: Pandas, NumPy
 Machine Learning: Scikit-learn, Logistic Regression
 Tools: Jupyter Notebook, VS Code
 Version Control: Git & GitHub
+
 🚀 Featured Projects
 📊 Student Performance Prediction
 
