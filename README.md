@@ -1,16 +1,19 @@
-## Hi there 👋
+I'm Akshay Deore
+🎓 Computer Engineering Graduate | Aspiring Data Scientist
 
-<!--
-**akshay-deore2004/akshay-deore2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Engineering graduate with a strong interest in Data Science, Machine Learning, and Artificial Intelligence.
 
-Here are some ideas to get you started:
+I enjoy building practical projects that use technology to solve real-world problems and I am continuously developing my skills in Python, data analysis, and machine learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Skills & Technologies
+Programming: Python
+Data Science: Pandas, NumPy
+Machine Learning: Scikit-learn, Logistic Regression
+Tools: Jupyter Notebook, VS Code
+Version Control: Git & GitHub
+🚀 Featured Projects
+📊 Student Performance Prediction
+
+Machine learning project that predicts student academic performance using student-related academic and lifestyle features.
+
+Technologies: Python, Pandas, Scikit-learn, Logistic Regression
